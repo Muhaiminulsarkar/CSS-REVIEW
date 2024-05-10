@@ -13,8 +13,8 @@ div {
     background-repeat: no-repeat;
 
 
-    background-position: center right;
+    background-position: center;
 
     /* Shorthand */
-    background: #f78fb3 url(css.png) no-repeat center;
+    background: #f78fb3 url(css.png) 150px no-repeat center;
 }
