@@ -2,14 +2,14 @@ body {
     margin: 0;
 }
 
-div {
+/* div {
     background: aqua;
     width: 400px;
     height: 400px;
     margin: 0;
-    /* margin-left: 20px;
-    margin-top: 20px; */
-}
+    margin-left: 20px;
+    margin-top: 20px;
+} */
 
 .main {
     position: relative;
@@ -45,4 +45,30 @@ div {
     position: sticky;
     bottom: 0;
     left: 0;
+}
+
+.position {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.class1 {
+    background-color: red;
+    padding: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.class2 {
+    background-color: rgb(0, 255, 26);
+    padding: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.class3 {
+    background-color: rgb(47, 0, 255);
+    padding: 50px;
+    width: 100px;
+    height: 100px;
 }
